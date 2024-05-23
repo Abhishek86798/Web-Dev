@@ -1,0 +1,36 @@
+h1{
+    background-color: red;
+    color: yellow;
+}
+.red{
+    background-color: red;
+}
+#green{
+    background-color: green;
+}
+div > p{
+    color: blue;
+    background-color: brown;     
+}
+div p{
+    color: aquamarine;
+}
+*{
+margin:02;
+padding:10;
+}
+a:visited{
+    color:green
+}
+a:link{
+    color:yellow
+}
+a:hover{
+background-color: olivedrab;
+}
+a:active{
+    background-color: red;
+}
+p:first-child{
+ color:white;
+}
